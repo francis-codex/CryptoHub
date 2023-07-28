@@ -9,6 +9,11 @@ CryptoHub is your gateway to the captivating world of cryptocurrencies, offering
 - Intuitive navigation: Explore the world of cryptocurrencies effortlessly, thanks to the user-friendly layout and seamless navigation.
 - Visually appealing: The captivating design and eye-catching graphics make CryptoHub visually engaging and inviting.
 
+- ## Screenshots
+
+- ![Homepage](https://github.com/francis-codex/CryptoHub/blob/main/img.git.png?raw=true)
+
+
 ## How to Use
 
 1. Clone the repository: `git clone https://github.com/your-username/cryptohub.git`
