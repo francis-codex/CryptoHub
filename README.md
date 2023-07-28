@@ -12,6 +12,10 @@ CryptoHub is your gateway to the captivating world of cryptocurrencies, offering
 - ## Screenshots
 
 - ![Homepage](https://github.com/francis-codex/CryptoHub/blob/main/img.git.png?raw=true)
+- ![Homepage](https://github.com/francis-codex/CryptoHub/blob/main/img.git1.png?raw=true)
+- ![Homepage](https://github.com/francis-codex/CryptoHub/blob/main/img.git3.png?raw=true)
+
+
 
 
 ## How to Use
