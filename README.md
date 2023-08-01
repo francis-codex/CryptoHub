@@ -17,7 +17,7 @@ CryptoHub is your gateway to the captivating world of cryptocurrencies, offering
 
 
 ##DEMO 
-- ![Homepage](https://francis-codex.github.io/CryptoHub/)
+- [Visit De](https://francis-codex.github.io/CryptoHub/)
 
 ## How to Use
 
